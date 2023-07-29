@@ -1,0 +1,70 @@
+site_name: Kandupedia
+theme:
+  name: material
+  logo: img/KW3.svg 
+  favicon: KW3.SVG
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: custom
+      accent: light blue 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: custom
+      accent: cyan
+
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@kanduworkshop
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/KanduWorkshop/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/kandu-workshop
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/KanduWorkshop/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/kandulounge
+
+plugins:
+    - search
+    - awesome-pages
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
