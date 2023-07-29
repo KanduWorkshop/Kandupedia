@@ -8,7 +8,7 @@ Welcome to this new location for infomation relating to Model railroading.
 
 The information in this site is based and directed towards Australian railways. 
 
-Lets make thie information here as accurate and comprehensive as possible, but i cannot do this alone, any help is appreciated. 
+Lets make this information here as accurate and comprehensive as possible, but I cannot do this alone, any help is much appreciated!
 
 This is only a part time project, it will take time to get this all set up and laid out in a way that works, and there will be a lot of trial and error. 
 
