@@ -3,7 +3,7 @@ sitr_url: https://kanduworkshop.github.io/Kandupedia/
 theme:
   name: material
   logo: img/KW3.svg 
-  favicon: KW3.SVG
+  favicon: img/KW3.SVG
   features:
     - navigation.tabs
     - navigation.tabs.sticky
