@@ -1,0 +1,13 @@
+:root {
+    --md-primary-fg-color:        #1190cb;
+    --md-primary-fg-color--light: #1190cb;
+    --md-primary-fg-color--dark:  #1190cb;
+  }
+  [data-md-color-scheme="slate"] {
+    --md-hue: 210; 
+    --md-primary-fg-color:        #1190cb;
+    --md-primary-fg-color--light: #1190cb;
+    --md-primary-fg-color--dark:  #1190cb;
+  }
+
+  
