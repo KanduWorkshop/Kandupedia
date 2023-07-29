@@ -1,2 +1,2 @@
 # Kandupedia
-A Collection of informations to help Model Railroaders 
+A Collection of information to help Model Railroaders 
