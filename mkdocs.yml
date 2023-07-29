@@ -1,4 +1,5 @@
 site_name: Kandupedia
+sitr_url: https://kanduworkshop.github.io/Kandupedia/
 theme:
   name: material
   logo: img/KW3.svg 
